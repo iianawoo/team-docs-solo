@@ -6,7 +6,7 @@ Aiana - DevOps Engineer# Наш DevOps проект
 
 ## Команда
 
-Aiana - DevOps Engineer
+Aiana - Senior DevOps Engineer
 Aiana - Cloud Engineer
 
 ## Стек технологий
