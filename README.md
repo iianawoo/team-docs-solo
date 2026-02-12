@@ -7,11 +7,14 @@ Aiana - DevOps Engineer# Наш DevOps проект
 ## Команда
 
 Aiana - DevOps Engineer
+Aiana - Cloud Engineer
 
 ## Стек технологий
 
 Docker
 Linux
+Kubernetes
+Terraform
 
 ## Инструкции по запуску
 
@@ -19,4 +22,6 @@ Linux
 2. Клонировать репозиторий
 3. Запустить контейнер
 
-
+1. Install Kubernetes
+2. Apply terraform configs
+3. Deploy application
